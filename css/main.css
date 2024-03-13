@@ -13,8 +13,15 @@
     border: 3px solid #d3d6da;
     width: 60px;
     height:60px;
-
+    cursor: pointer;
+    font-size: 16px;
+    padding:5px;
+    text-align: center;
+    contenteditable="true";
+    vertical-align: baseline;
 }
+
+
 main{
     display:flex;
     flex-direction: column;
