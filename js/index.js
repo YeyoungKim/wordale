@@ -1,3 +1,6 @@
+
+
+
 const 정답 = "APPLE";
 let index =0;
 let attempts=0;
